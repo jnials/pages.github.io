@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Sample alerts site using hugo'
+title = 'Sample alerts site using hugo, including deployment action'
 theme = 'ananke'
