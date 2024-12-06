@@ -7,4 +7,4 @@ title = 'Runbook home'
 ## Runbook home
 
 
-[nodes](./nodes/)
+[nodes](./nodes)
