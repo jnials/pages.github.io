@@ -4,4 +4,4 @@ draft = false
 title = 'Index'
 +++
 
-[dictator](./dictator)
+[400](./400)
