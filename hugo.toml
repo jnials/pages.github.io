@@ -1,4 +1,0 @@
-baseURL = 'https://jnials.github.io/pages.github.io'
-languageCode = 'en-us'
-title = 'Sample alerts site using hugo, including deployment action'
-theme = 'ananke'
