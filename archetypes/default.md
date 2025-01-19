@@ -1,4 +1,3 @@
-
 ---
 date = '{{ .Date }}'
 draft = false
