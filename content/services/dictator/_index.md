@@ -1,12 +1,8 @@
-
 ---
-date: '2024-12-11T21:39:27-06:00'
-draft: false
-title: 'Dictator'
+title: "Content Placeholder"
+_build:
+  render: never
+  list: never
+  publishResources: false
 ---
 
-
-
-* Error
-* Error
-* Error
