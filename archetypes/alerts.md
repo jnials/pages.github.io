@@ -2,7 +2,7 @@
 ---
 date: '{{ .Date }}'
 draft: false
-type: alert
+type: single
 title: '{{ replace .File.ContentBaseName `-` ` ` | title }}'
 ---
 
